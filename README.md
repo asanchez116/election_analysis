@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## Overview of Election Audit
 
@@ -43,7 +43,7 @@ The analysis of the election shows that:
 * County with the largest voter turnout:
     * Denver with 306,055 votes
 
-## Election_Audit Summary
+## Election Audit Summary
 This script can streamline the process of conducting an election audit by
 automating the process of reading in the data and calculating metrics.
 This script can also be applied to any election including congressional elections,
